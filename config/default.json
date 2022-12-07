@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://sina:anismolla@devconnector.z7qho.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
